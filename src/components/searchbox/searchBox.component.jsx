@@ -14,6 +14,6 @@ export const SearchBox = props => {
     `
 
     return (
-        <Search type='search' placeholder={props.placeholder} onChange={props.handleChanges}></Search>
+        <input type='search' placeholder={props.placeholder} onChange={props.handleChanges}></input>
     )
 }
