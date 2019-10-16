@@ -1,3 +1,6 @@
+This project was my first React project, based on Udemy's React course.
+I would like to thank the contributors for sharing their knowledge.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
